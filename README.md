@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-19 18:36:30
- * @LastEditTime: 2020-12-22 23:05:17
+ * @LastEditTime: 2020-12-22 23:06:59
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \undefinedc:\Users\asus\Desktop\Study-Notes\README.md
@@ -31,10 +31,7 @@
 - python学了类的私有和公有与类的继承
 - 前端没学新课，写了一下课程老师布置的作业
 - 高数没怎么搞懂的东西，昨天问了下朋友教了一下，高数课看着看着就弄懂了，顺便刷了几面题，贼爽。
-<<<<<<< HEAD
 
-=======
->>>>>>> b79a9efe96541d1008a5f5f395c55aab3719bdef
 # 2020年12月20日 #
 - 前端学了三节课，主要是开始了练习，练习慢慢做吧，不急，先复习期末。
 - python听了两课，感觉类和对象有点难啊，好抽象，在b站，慕课，参考书的共同帮助下算是大概理解了类和对象，self，__init__的意思，开了一篇博客记录这个
