@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-19 18:36:30
- * @LastEditTime: 2020-12-23 21:28:38
+ * @LastEditTime: 2020-12-24 00:46:18
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \undefinedc:\Users\asus\Desktop\Study-Notes\README.md
@@ -24,6 +24,7 @@
 - 前端放了，没学前端
 - 制作了一个错题本，把之前遇到的高数错题好题整理了一下
 - 数字逻辑把同步的触发器全部自学完了，发现还有主从触发器和边沿触发器，真的是淦
+- 整了一晚上，搞到了十二点五十，把对__new__函数大概弄懂，写了一篇博客加深了印象，累了累了
 
 # 2020年12月22日 #
 - python准备学习魔法方法，听说很难
