@@ -6,9 +6,8 @@
 希望在寒假结束前能全部完成。
 
 # 2021年2月1日 #
-
-
-
+- 学了一波sql注入语句，包括information_schema、information_schema.tables、information_schema.columns、group_concat，其实information_schema就是一个库，这个库记录了整个mysql数据库的所有信息，详细理解也记了笔记
+- 刷了一波题，做出来好爽的哈哈哈哈
 
 # 2021年1月31日#
 - 注册登陆界面开发结束，虽然很简陋，但是还是很有成就感的
