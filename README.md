@@ -5,6 +5,11 @@
 - 预计寒假开始学后端
 希望在寒假结束前能全部完成。
 
+# 2021年2月2-3日 #
+- 刷题中，写了一波杭电的题，太菜了，只写出了一题，唉，菜是原罪
+- 写了一些web的基础题，了解了一些之前没注意到的小细节
+- 本来是想学一下序列化和反序列化，php对象还没学，基础还不够，准备加强一波基础
+
 # 2021年2月1日 #
 - 学了一波sql注入语句，包括information_schema、information_schema.tables、information_schema.columns、group_concat，其实information_schema就是一个库，这个库记录了整个mysql数据库的所有信息，详细理解也记了笔记
 - 刷了一波题，做出来好爽的哈哈哈哈
