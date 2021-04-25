@@ -5,6 +5,19 @@
 - nodejs尽量能开始学习
 - 继续完善web的技能数和自己的方法论
 
+# 2021年4月24-25日
+- 肝了两天的页面算是成功了，前端搞了一个晚上，后端搞了一整天，熬夜熬的颈椎都有问题了。。
+- 实现了java后端的登陆，还有response要学，这次先涉及到了但是还没正式开始学
+- 国赛报名了，希望能有好成绩
+- 发现javaweb的开发真的是很麻烦，php里简简单单的一个操作，java偏要搞出一大堆类来东跑西跑。。。
+- 发现自己的java基础很薄弱，虽然成功完成了案例，但是很多知识点都还是去网上查了，明明是跟着视屏学的为啥我的很多知识点就没学呢
+- javaweb的登陆案例的大概思路是这样：
+  1. 前端开发，把username和passwd给发送到后台
+  2. 创建一个javaBean，User类，用来封装前段传进来的信息，实现setter、getter、tostring方法
+  3. 这里要提取JDBCUtils（有个小坑，druid.properties要放到resource里面，不然加载不出），JDBCUtils要实现：预定义连接池对象、在静态代码块中（加载配置文件、初始化连接池对象）、获取连接池对象的方法、获取连接的方法
+  4. 创建UserDao类，用来操作数据库，里面设置一个login方法，该方法传入User对象，执行查询语句查询User对象的数据是否存在数据库，在login方法里使用JDBCTemplate来操作数据库，获取执行sql语句的方法要使用queryForObject()，返回一个User对象
+  5. Servlet的实现，获取到前端的输入后，把参数用BeanUtils封装成User对象，再交由UserDao的login方法来判断是否查询成功，得到结果转发到successServlet或failServlet
+
 # 2021年4月22-23日
 - javaweb开发，感觉最近效率有点低。。
 - 24号开始登陆注册页面的开发吧
